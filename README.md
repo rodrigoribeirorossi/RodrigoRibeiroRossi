@@ -45,7 +45,7 @@ Além disso, sou entusiasta das inovações em Inteligência Artificial e estou 
 
 ## 🏆 Sobre Mim
 
-- 👨‍💻 Experiência em Arquitetura de Software, e Desenvolvimento
+- 👨‍💻 Experiência em Arquitetura de Software e Desenvolvimento
 - ☁️ Projetos CX - Genesys | URA | WDE
 - 🔗 Experiência em Suporte e Sustentação
 - 🤖 Automação de Tarefas
