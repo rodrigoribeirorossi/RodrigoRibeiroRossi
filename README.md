@@ -37,8 +37,8 @@ Além disso, sou entusiasta das inovações em Inteligência Artificial e estou 
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoribeirorossi&show_icons=true&theme=light&count_private=true&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&cache_seconds=60"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeirorossi&layout=compact&langs_count=7&include_all_commits=true&theme=light&locale=pt-br&custom_title=Tecnologias"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoribeirorossi&show_icons=true&theme=default&count_private=true&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeirorossi&layout=compact&langs_count=7&include_all_commits=true&theme=default&locale=pt-br&custom_title=Tecnologias"/>
 </p>
 
 ---
