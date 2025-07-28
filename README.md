@@ -29,7 +29,7 @@ Além disso, sou entusiasta das inovações em Inteligência Artificial e estou 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5-OoyxCxBtps1j9R5OJ6wfOJGKMgmK07Mg&s"40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/80ee24b2f1d1758eeeaa65bc396e11aef6d39a394edc5c8925e2e04a5b5d3297/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6769742f6769742d6f726967696e616c2e737667" width="40" height="40"/>
-  
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jenkins-Light.svg" width="40" height="40"/>
 </p>
 
 ---
